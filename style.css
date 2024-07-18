@@ -1,0 +1,26 @@
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.card{
+    background-color: pink;
+    color:black ;
+    height:220px ;
+    width: 250px;
+padding-top:10px;
+display: inline-block;
+text-align: center;
+margin: 10px;
+border-radius: 20px;
+box-shadow: 5px 5px 7px 7px lightgreen;
+
+
+
+}
+p{
+    text-shadow: 4px 4px 5px red;
+}
+.id{
+    display: inline-block;
+}
